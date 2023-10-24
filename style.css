@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+button{
+background-color: #02433b;
+color: white;
+border-radius: 5px;
+width: 170px;
+height: 25px;
+font-family: 'Syne Mono', monospace;
+}
+input{
+    width: 250px;
+    height: 25px;
+    font-size: 25px;
+    color: #02433b;
+    border-bottom-color: #02433b;
+    box-shadow: 5px 1px 5px rgba(0, 0, 0.3,);
+
+}
+p{
+    color: white;
+    font-size: 25px;
+}
